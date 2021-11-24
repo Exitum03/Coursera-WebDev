@@ -1,2 +1,2 @@
-# Coursera-WebDev
+# Webdev
 Studying webdev in coursera
